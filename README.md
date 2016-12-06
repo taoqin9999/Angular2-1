@@ -1,5 +1,4 @@
-# Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
+# Angular2-1
 
 初次使用
 
